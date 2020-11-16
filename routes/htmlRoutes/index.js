@@ -14,6 +14,7 @@ router.get('/notes', (req, res) =>{
 //deleting notes
 /*router.delete('/notes/:id', (req, res) =>{
     const
+    res.send('Delete request at /notes')
 })*/
 
 //homepage route//any route//DEFAULT ROUTE for index.html PLACED AT BOTTOM
