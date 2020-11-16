@@ -12,17 +12,12 @@ const PORT = process.env.PORT || 3001
 //object traditionally named app
 
 
-//parsing json and url data
-
-
-//middleware 
-app.use('/api', apiRoutes);
-app.use('/', htmlRoutes);
-
 
 //serves static files, can load files in public folder
 app.use(express.static('public'));
-
+//middleware 
+app.use('/api', apiRoutes);
+app.use('/', htmlRoutes);
 
 
 //server listening 

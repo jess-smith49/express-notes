@@ -21,6 +21,7 @@ router.get("/notes/:id", (req, res)=> {
     //id function
 })
 
+//adding a new note
 router.post('/notes', (req, res) => {
     //setting id for notes//and adding new note to the data
     const newNotes = newNote(req.body);
