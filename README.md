@@ -15,3 +15,4 @@ Adding functionality for a user to be able to delete a note.
 ## Links to Deployed Application
 
 ## Screenshots
+![Screenshot](/images/landing-page)

@@ -18,7 +18,7 @@ router.get('/notes', (req, res)=>{
 });
 
 router.get("/notes/:id", (req, res)=> {
-    //id function
+    
 })
 
 //adding a new note
