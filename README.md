@@ -15,6 +15,7 @@ Adding functionality for a user to be able to delete a note.
 ## Links to Deployed Application
 
 https://stormy-cliffs-16351.herokuapp.com/
+http://localhost:3001/
 
 ## Screenshots
 ![Screenshot](/images/landing-page)
