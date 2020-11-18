@@ -20,5 +20,5 @@ Local Host:
 http://localhost:3001/
 
 ## Screenshots
-![Screenshot](/images/landing-page.jpg)
-![Screenshot](/images/notes-page.jpg)
+![Screenshot](/images/landing-page.png)
+![Screenshot](/images/notes-page.png)
