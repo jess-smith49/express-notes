@@ -21,4 +21,4 @@ http://localhost:3001/
 
 ## Screenshots
 ![Screenshot](/images/landing-page.png)
-![Screenshot](/images/notes-page.png)
+![Screenshot](/images/notes_page.png)
